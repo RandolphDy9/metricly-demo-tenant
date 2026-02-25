@@ -15,7 +15,7 @@ export function Footer() {
               Furniture & Home
             </p>
             <Link
-              href="https://mara-309402645441.us-east4.run.app"
+              href="http://localhost:3200"
               aria-label="Design with MetricLy"
               target="_blank"
               rel="noreferrer"
