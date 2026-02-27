@@ -9,13 +9,13 @@ export function Footer() {
           {/* Brand */}
           <div>
             <span className="font-serif text-xl font-semibold tracking-wide text-foreground">
-              Cedar & Stone
+              CasaLife
             </span>
             <p className="mt-1 text-xs text-muted-foreground">
               Furniture & Home
             </p>
             <Link
-              href="http://localhost:3200"
+              href="https://mara-309402645441.us-east4.run.app/portal/5df1b0e5-f5bf-4db3-8fe8-8a09c0e00c1a"
               aria-label="Design with MetricLy"
               target="_blank"
               rel="noreferrer"
@@ -144,7 +144,7 @@ export function Footer() {
           <div className="flex flex-col items-center gap-3">
             <p className="text-center text-xs text-muted-foreground">
               {
-                "2025 Cedar & Stone. All Canadian rights reserved. Privacy Policy. Accessibility Statement."
+                "2025 CasaLife. All Canadian rights reserved. Privacy Policy. Accessibility Statement."
               }
             </p>
           </div>

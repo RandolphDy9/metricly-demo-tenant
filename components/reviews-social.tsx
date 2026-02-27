@@ -9,7 +9,7 @@ export function ReviewsAndSocial() {
           Reviews & Social Proof
         </h2>
         <p className="mt-2 text-base font-medium text-foreground">
-          Join the Cedar & Stone Community
+          Join the CasaLife Community
         </p>
         <p className="mt-2 text-sm leading-relaxed text-muted-foreground max-w-lg">
           Cozy spaces, design style, and everyday moments shared by our community. Follow along for inspiration and behind-the-scenes content.

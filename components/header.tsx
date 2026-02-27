@@ -7,7 +7,7 @@ export function Header() {
       <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4">
         <Link href="/" className="flex flex-col">
           <span className="font-serif text-2xl font-semibold tracking-wide text-foreground">
-            CEDAR & STONE
+            CASALIFE
           </span>
           <span className="text-[10px] tracking-[0.3em] text-muted-foreground uppercase">
             Furniture & Home

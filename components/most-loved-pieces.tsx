@@ -39,7 +39,7 @@ export function MostLovedPieces() {
               Our Most Loved Pieces
             </h2>
             <p className="mt-4 text-sm leading-relaxed text-muted-foreground max-w-sm">
-              Cedar & Stone creates furniture for modern Canadian homes using natural materials, expert craftsmanship, and sustainably sourced wood, linen, and stone.
+              CasaLife creates furniture for modern Canadian homes using natural materials, expert craftsmanship, and sustainably sourced wood, linen, and stone.
             </p>
             <Link
               href="#"

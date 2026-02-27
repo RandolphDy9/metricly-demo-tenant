@@ -7,7 +7,7 @@ const _dmSans = DM_Sans({ subsets: ["latin"], weight: ["300", "400", "500", "600
 const _playfairDisplay = Playfair_Display({ subsets: ["latin"], weight: ["400", "500", "600", "700"] });
 
 export const metadata: Metadata = {
-  title: 'Cedar & Stone | Furniture Made to Last',
+  title: 'CasaLife | Furniture Made to Last',
   description: 'Solid wood furniture designed for Canadian homes. Handcrafted with care using ethically sourced materials.',
   generator: 'v0.app',
   icons: {
